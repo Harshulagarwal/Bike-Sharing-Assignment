@@ -9,8 +9,5 @@
 
 ## Conclusions
 - Top 3 predictors are Temperature, year, Weathersit 3 which is Light Snow, Light Rain+Thunderstorm+Scattered Clouds, or Scattered clouds+light rain
-- R2 score for train data 0.84
-- R2 score for test data 0.82
-
-## Contact
-Created by [@Harshulagarwal] - feel free to contact me!
+- R2 score for train data 0.85
+- R2 score for test data 0.825
